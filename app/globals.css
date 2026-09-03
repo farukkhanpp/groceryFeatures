@@ -104,3 +104,17 @@ body {
 .Toastify__progress-bar {
   background: var(--color-highlight);
 }
+
+:root {
+  color-scheme: light;
+  /* ...existing variables... */
+}
+
+select {
+  color-scheme: light;
+}
+
+select option {
+  background-color: #ffffff;
+  color: #1e293b; /* slate-800 */
+}
