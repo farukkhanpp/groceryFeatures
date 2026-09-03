@@ -253,7 +253,7 @@ export default function Home() {
             ))}
           </div>
           <p className="mt-4 text-[11px] text-gray-400 dark:text-gray-600">
-            MEGA20 requires min $100 • FLAT15 requires min $40
+              Made By Faruk
           </p>
         </div>
       </footer>
